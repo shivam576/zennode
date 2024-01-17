@@ -1,0 +1,47 @@
+-Why do you like to join as a Software developer?
+ans-
+I want to join as a software developer bacuase i am passionate about software development it allows me to combine my technical skills with problem solving.I love to explore and learn new technologies and i have keen interest in data structures and algorithm.
+I like to solve real life problems.I have also worked on some really good projects related to software development which helps me to learn how to work in team.   
+
+-List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+Three tools that inspire me a lot
+1)Git:
+ Git is a distributed version control system that has revolutionized collaborative software development. It enables seamless collaboration among developers, facilitates efficient code management, and provides a robust history of changes. The way Git simplifies complex versioning challenges and supports team collaboration is both elegant and powerful. It has become an integral part of modern software development, and its impact on the industry is inspiring.
+
+2)Stack overflow
+It's a platform where we can find the answer of most of the problems we face during development.Stack Overflow is a question-and-answer website for computer programmers. It is the flagship site of the Stack Exchange Network. It was created in 2008 by Jeff Atwood and Joel Spolsky. It features questions and answers on certain computer programming topics.it's really helpfull platform 
+
+3)Docker: Docker has transformed the way software is deployed and run across various environments. Its containerization approach allows for consistency between development, testing, and production environments. Docker simplifies the process of packaging, distributing, and running applications, fostering a more reliable and scalable deployment pipeline. The portability and efficiency introduced by Docker have significantly influenced modern DevOps practices, making it a tool that inspires efficient and reproducible software deployment.
+-List top 3 organisations you like to join in your career & why you like these organisations.
+1)Google: Google is known for its innovative culture, commitment to cutting-edge technology, and emphasis on creating products that have a global impact. The company fosters a creative and collaborative work environment, and it actively supports employee growth and development. Google's diverse range of projects, from search and advertising to artificial intelligence and self-driving cars, attracts individuals who are passionate about solving challenging problems.
+
+2)Microsoft: Microsoft is a technology giant with a broad portfolio that spans software, hardware, and cloud services. The company has undergone a significant transformation in recent years, emphasizing open-source collaboration and cloud computing. Microsoft is attractive to software engineers due to its focus on empowering developers, its commitment to accessibility and inclusion, and the opportunities to work on a wide array of projects, including gaming, enterprise solutions, and artificial intelligence.
+3)Amazon: Amazon is a leader in e-commerce, cloud computing, and various other industries. The company is known for its customer-centric approach, operational excellence, and continuous innovation. Software engineers are drawn to Amazon for its challenging technical problems, the opportunity to work on large-scale systems, and the company's commitment to leveraging technology to enhance customer experiences. Amazon Web Services (AWS) is also a major player in the cloud computing industry, providing engineers with exposure to cutting-edge technologies and scalable solutions.
+-How you position yourself in this industry after 2 years.
+In next two year my main focus is to learn as much as i can and explore different technologies and gain some practical and industrial experiences. or i will try to be in some leading team of my organisation.
+
+
+
+List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+
+1)REGNOW - Auto course registration
+• Developed an automated system using ReactJS, NodeJS, Cloudflare, and SQL to streamline the course registration
+process at DTU (Delhi Technological University). The system bypasses the legacy registration setup, ensuring efficient
+and timely course enrollment.
+• Implemented a robust backend with NodeJS to handle course registration processes.Utilized ReactJS to create a
+user-friendly interface for students to interact with the automated registration system.
+• Used websocket to provide real-time updates on course seats.
+
+2)WorldWise-Keep track of your adventures
+• Designed and developed an engaging and user-friendly interactive world map using React and HTML/CSS for
+front-end rendering. - Implemented a tracking system that enables users to mark the cities they have visited, creating a
+personalized travel diary.
+• Integrated Redux for efficient state management, ensuring a smooth and responsive user experience. - Employed React
+Router for seamless navigation within the application.
+
+3)Sorting Visualizer
+• Developed a web application utilizing HTML, CSS, and React.JS to visualize and compare various sorting algorithms.
+Implemented an intuitive and user-friendly interface dedicated to demonstrating the functionality of sorting algorithms.
+• Created an interactive interface showcasing Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, and Quick
+Sort algorithms.
+
